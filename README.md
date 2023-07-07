@@ -1,7 +1,7 @@
 - 👋 Hi there, I’m @Victorhtf
 - 👀 I’m interested in technologies, games and aviation.
 - 🌱 I’m currently learning Typescript and Docker.
-- 💞️ I’m currently staging of IEA-USP.
+- 💞️ I’m currently staging.
 - 📫 Contact me via e-mail: victorformisano@gmail.com
 
 <div style="display: inline_block"><br>
