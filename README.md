@@ -1,10 +1,12 @@
-<h1> About-me</h1>
+# Anout-me
 - 👋 Hi there, I’m @Victorhtf
 - 👀 I’m interested in technologies, games and aviation.
 - 🌱 I’m currently learning Typescript and Docker.
 - 💞️ I’m currently staging.
 - 📫 Contact me via e-mail: victorformisano@gmail.com
-##
+------------------------------------------------------
+------------------------------------------------------
+------------------------------------------------------
 
 # My Stacks and how often I use them
 <div style="display: inline_block"><br>
@@ -21,7 +23,9 @@
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorhtf&layout=compact)](https://github.com/victorhtf/github-readme-stats)
-##
+------------------------------------------------------
+------------------------------------------------------
+------------------------------------------------------
 
  # Contact
 <div> 
