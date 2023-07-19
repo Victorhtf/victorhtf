@@ -5,8 +5,7 @@
 - 💞️ I’m currently staging.
 - 📫 Contact me via e-mail: victorformisano@gmail.com
 ------------------------------------------------------
-------------------------------------------------------
-------------------------------------------------------
+
 
 # My Stacks and how often I use them
 <div style="display: inline_block"><br>
@@ -24,8 +23,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorhtf&layout=compact)](https://github.com/victorhtf/github-readme-stats)
 ------------------------------------------------------
-------------------------------------------------------
-------------------------------------------------------
+
 
  # Contact
 <div> 
