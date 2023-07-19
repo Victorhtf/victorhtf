@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Typescript and Docker.
 - 💞️ I’m currently staging.
 - 📫 Contact me via e-mail: victorformisano@gmail.com
-- 
+
 ##
 <div style="display: inline_block"><br>
   <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
