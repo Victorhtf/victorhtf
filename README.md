@@ -1,4 +1,4 @@
-# Anout-me
+# About-me
 - 👋 Hi there, I’m @Victorhtf
 - 👀 I’m interested in technologies, games and aviation.
 - 🌱 I’m currently learning Typescript and Docker.
