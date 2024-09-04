@@ -1,8 +1,6 @@
 # About-me
 - 👋 Hi there, I’m @Victorhtf
-- 👀 I’m interested in technologies, games and aviation.
-- 🌱 I’m currently learning Typescript and Docker.
-- 💞️ I’ m looking for my first job as dev.
+- 🌱 I’m currently learning more about Typescript and AWS.
 - 📫 Contact me via e-mail: victorformisano@gmail.com
 ------------------------------------------------------
 
