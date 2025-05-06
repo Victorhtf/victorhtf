@@ -1,9 +1,3 @@
-# About-me
-- 👋 Hi there, I’m @Victorhtf
-- 🌱 I’m currently learning more about Typescript and AWS.
-- 📫 Contact me via e-mail: victorformisano@gmail.com
-------------------------------------------------------
-
 
 # My Stacks and how often I use them
 <div style="display: inline_block"><br>
